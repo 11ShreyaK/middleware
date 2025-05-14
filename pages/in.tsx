@@ -6,7 +6,7 @@ export default function IndiaPage() {
 
   return (
     <div>
-      <h1>🇮🇳 Namaste! You're visiting from India.</h1>
+      <h1>🇮🇳 Namaste You are visiting from India.</h1>
       <p>Detected country: {country}</p>
     </div>
   );
