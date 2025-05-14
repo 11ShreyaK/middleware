@@ -1,3 +1,3 @@
 export default function GlobalPage() {
-  return <h1>🌍 Welcome! You're visiting from somewhere else.</h1>;
+  return <h1> Welcome You are visiting from somewhere else</h1>;
 }
